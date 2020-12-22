@@ -1,4 +1,4 @@
-# Computer-Vision-
+# Computer-Vision
 Low-Level Vision
 
 
