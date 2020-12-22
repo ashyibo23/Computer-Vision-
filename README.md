@@ -6,6 +6,6 @@ This computer vision task provides the opportunity to design and implement a com
 
 Traning images are provided in this repo, also four binary images showing the boundaries between different regions of the image as identified by four different human observers. Notice that different human observers do not always agree on how to segment the same image. Hence, it is impossible to produce an algorithm that performs this task perfectly. Furthermore, it is extremely difficult to find an algorithm that will work across different images (in other words, an algorithm, using specific parameter values, might work well for one image, but the same algorithm with the same parameters might produce very poor results on other images). Therefore, to generalize well, it's good to implement a method that works reasonably well across a number of images, rather than try to produce perfect results on one or two images.
 
-In order to get good result and generalize well across all images try to tune parameters. 
+In order to generalize well across all images to achieve good result, try to tune parameters. 
  
 Feel free to steal this source code, just add a link back to this repo.
